@@ -30,3 +30,6 @@ Following Features are highly impacting the success of the cantact and the model
   marital status is single, 
   Grauduated for university degree, 
   Increase in the Consumer Price Index and Age
+
+Notebook used for training this model, 
+    https://github.com/chandtr/assignment3/blob/master/prompt_III.ipynb
